@@ -1,25 +1,8 @@
-![image](https://github.com/user-attachments/assets/b3e428a0-e4fc-4224-bd1e-d2349f287ad6)
+# Sirinda (Dhern) Bunpapanpong
+Now I'm seeking for 
 
-# Data Science Bootcamp Batch 11
-This class is finished!!!!! 🙏
 
-Data Science Bootcamp Projects
-This Bootcamp runs about 4 months, 10 sprints
+# Recent Projects
 
-- Google Sheets
-- SQL
-- R
-- Data Transformation
-- Data Visualization
-- Machine Learning
-- Statistics
-- Python for DA!
-- Data Science Fundamentals
-- Mental Models
-
-## code block
-```Python
-print("Hello World")
-```
-
-Say the Name `SEVENNTEEN`
+### 🔍 Student Habit & Performance Analysis: Driving Academic Success at Future Scholars University
+in this project I will find significant relationships between students' daily habits (e.g., study hours, sleep, exercise, nutrition) and their academic performance
